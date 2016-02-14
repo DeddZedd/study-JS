@@ -1,3 +1,3 @@
 # study-JS
 My study
-And woek with GitHub
+And work with GitHub
